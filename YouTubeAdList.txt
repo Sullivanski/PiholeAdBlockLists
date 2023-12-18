@@ -5,3 +5,4 @@ rr2---sn-4g5ednde.googlevideo.com
 rr4---sn-4g5e6nzz.googlevideo.com
 rr5---sn-4g5lznl7.googlevideo.com
 ^([A-Za-z])[0-9]-+[A-Za-z]+-+[0-9]+[A-Za-z0-9]-+[A-Za-z0-9]+.googlevideo.com
+^[A-Za-z0-9]+-+[A-Za-z0-9]+-+[A-Za-z0-9]+.googlevideo.com
